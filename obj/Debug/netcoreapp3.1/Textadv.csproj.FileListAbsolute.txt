@@ -1,0 +1,11 @@
+C:\Users\Nesibe\Desktop\Textadv\obj\Debug\netcoreapp3.1\Textadv.csprojAssemblyReference.cache
+C:\Users\Nesibe\Desktop\Textadv\obj\Debug\netcoreapp3.1\Textadv.AssemblyInfoInputs.cache
+C:\Users\Nesibe\Desktop\Textadv\obj\Debug\netcoreapp3.1\Textadv.AssemblyInfo.cs
+C:\Users\Nesibe\Desktop\Textadv\bin\Debug\netcoreapp3.1\Textadv.exe
+C:\Users\Nesibe\Desktop\Textadv\bin\Debug\netcoreapp3.1\Textadv.deps.json
+C:\Users\Nesibe\Desktop\Textadv\bin\Debug\netcoreapp3.1\Textadv.runtimeconfig.json
+C:\Users\Nesibe\Desktop\Textadv\bin\Debug\netcoreapp3.1\Textadv.runtimeconfig.dev.json
+C:\Users\Nesibe\Desktop\Textadv\bin\Debug\netcoreapp3.1\Textadv.dll
+C:\Users\Nesibe\Desktop\Textadv\bin\Debug\netcoreapp3.1\Textadv.pdb
+C:\Users\Nesibe\Desktop\Textadv\obj\Debug\netcoreapp3.1\Textadv.dll
+C:\Users\Nesibe\Desktop\Textadv\obj\Debug\netcoreapp3.1\Textadv.pdb
